@@ -54,3 +54,7 @@ pip install opencv-python mediapipe numpy
 
 # Run the application
 python main.py
+
+
+Author :
+Rithika G
